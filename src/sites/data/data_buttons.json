@@ -1,0 +1,44 @@
+{
+    "telegram": {
+        "id": "telegram",
+        "visible": "@mepurionus",
+        "icon": "/logos/telegram_logo.png",
+        "link": "https://t.me/mepurionus"
+    }, 
+    "discord": {
+        "id": "discord",
+        "visible": "Mepuri#0461",
+        "icon": "/logos/discord_logo.png",
+        "link": ""
+    }, 
+    "steam": {
+        "id": "steam",
+        "visible": "Mepuri",
+        "icon": "/logos/steam_logo.png",
+        "link": "https://steamcommunity.com/id/mepurionus/"
+    },
+    "furaffinity": {
+        "id": "furaffinity",
+        "visible": "@mepuri",
+        "icon": "/logos/fa_logo.png",
+        "link": "https://www.furaffinity.net/user/mepuri/"
+    },
+    "youtube": {
+        "id": "youtube",
+        "visible": "Mepurionus",
+        "icon": "/logos/youtube_logo.png",
+        "link": "https://www.youtube.com/channel/UCLgX5-h8ODYgwdQLAj1lvBA"
+    },
+    "github": {
+        "id": "github",
+        "visible": "mepurionus",
+        "icon": "/logos/github_logo.png",
+        "link": "https://github.com/mepurionus"
+    },
+    "twitter": {
+        "id": "twitter",
+        "visible": "@mepurionus",
+        "icon": "/logos/twitter_logo.png",
+        "link": "https://twitter.com/mepurionus"
+    }
+}

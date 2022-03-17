@@ -1,0 +1,16 @@
+{
+    "email": {
+        "id": "email",
+        "visible": "mepuri[at]mepurionus[dot]net",
+        "link": "mailto:mepuri@mepurionus.net"
+    },
+    "telegram": {
+        "id": "telegram",
+        "visible": "@mepurionus",
+        "link": "https://t.me/mepurionus"
+    },
+    "discord": {
+        "id": "discord",
+        "visible": "Mepuri#0461"
+    }
+}
