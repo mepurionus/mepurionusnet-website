@@ -1,5 +1,6 @@
 /node_modules/
 /public/build/
+/cert
 
 .DS_Store
 .obsidian
