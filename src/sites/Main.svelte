@@ -5,7 +5,7 @@
 <main>
     <div class="text">
         <h1>Welcome to Mepuri's cave!</h1>
-        <h4>Use Menu above to move to different page!</h4>
+        <h4>Use Menu above to move to different section!</h4>
     </div>
 </main>
 

@@ -9,7 +9,7 @@
 </script>
 
 <main>
-    <h1>Select one website to your desires.</h1>
+    <h1>Select the destination of your desires.</h1>
     <div>
         <Telegram /> <br><br><br>
         <Discord /> <br><br><br>

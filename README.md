@@ -9,13 +9,13 @@ This is a project based of [Svelte](https://svelte.dev) and [Node.js](https://no
 ```about
 Version: 0.0.5
 Uses: nodejs, javascript, css, html
+Why: Made website related to my character as well as related to it data.
 ```
 
 ### Things, that is used to make website work
 
 ```hosting
-Web server: Apache2
-Server: LXC Container at Proxmox
+Web server: Express.js
 ```
 
 Navigate to [mepurionus.net](https://mepurionus.net) to see the result.
